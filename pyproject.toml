@@ -7,11 +7,7 @@ authors = [
     { name = "Rain233333", email = "zouyunzhi0@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = [
-    "ipykernel>=7.3.0",
-    "matplotlib>=3.11.1",
-    "numpy>=2.5.2",
-]
+dependencies = []
 
 [project.scripts]
 engin-7 = "engin_7:main"
