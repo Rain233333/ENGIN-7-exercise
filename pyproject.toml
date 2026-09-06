@@ -7,7 +7,9 @@ authors = [
     { name = "Rain233333", email = "zouyunzhi0@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.3.0",
+]
 
 [project.scripts]
 engin-7 = "engin_7:main"
